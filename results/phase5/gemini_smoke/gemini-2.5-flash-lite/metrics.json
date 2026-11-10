@@ -1,0 +1,20 @@
+{
+  "model": "gemini-2.5-flash-lite",
+  "mode": "zero-shot",
+  "temperature": 0,
+  "topic": {
+    "evaluated": 1,
+    "failed": 1,
+    "invalid_output_rate": 1.0,
+    "micro_f1": 0.0,
+    "macro_f1": 0.0
+  },
+  "claim": {
+    "evaluated": 0,
+    "failed": 1,
+    "accuracy": null,
+    "macro_f1": null
+  },
+  "annotation_provenance": "Human-reviewed AI-generated labels; not independent human ground truth.",
+  "note": "Topic failures count as empty predictions. Claim failures are excluded from claim F1 and separately reported."
+}

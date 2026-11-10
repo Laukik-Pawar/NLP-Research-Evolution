@@ -1,0 +1,40 @@
+{"id": "164b9d9303e895ac", "prediction": ["Multimodal NLP", "Dialogue systems", "Evaluation and benchmarks"], "raw": "{\n  \"topics\": [\n    \"Multimodal NLP\",\n    \"Dialogue systems\",\n    \"Evaluation and benchmarks\"\n  ]\n}", "error": ""}
+{"id": "70a0d9b0758452d5", "prediction": ["Sentiment and opinion", "Syntax and parsing"], "raw": "{\n  \"topics\": [\n    \"Sentiment and opinion\",\n    \"Syntax and parsing\"\n  ]\n}", "error": ""}
+{"id": "725388bd8d902aac", "prediction": ["Other"], "raw": "{\"topics\": [\"Other\"]}", "error": ""}
+{"id": "aa638f27bed6c5ee", "prediction": ["Machine translation"], "raw": "{\n  \"topics\": [\n    \"Machine translation\"\n  ]\n}", "error": ""}
+{"id": "c550fcf0a3f80991", "prediction": ["Machine translation", "Information extraction"], "raw": "{\n  \"topics\": [\n    \"Machine translation\",\n    \"Information extraction\"\n  ]\n}", "error": ""}
+{"id": "8a0b5658903de55a", "prediction": ["Summarization", "Question answering", "Evaluation and benchmarks"], "raw": "{\n  \"topics\": [\n    \"Summarization\",\n    \"Question answering\",\n    \"Evaluation and benchmarks\"\n  ]\n}", "error": ""}
+{"id": "ba3f50644abe2d40", "prediction": ["Sentiment and opinion", "Evaluation and benchmarks"], "raw": "{\n  \"topics\": [\n    \"Sentiment and opinion\",\n    \"Evaluation and benchmarks\"\n  ]\n}", "error": ""}
+{"id": "c08a0c30b374c9be", "prediction": ["Question answering", "Information extraction"], "raw": "{\n  \"topics\": [\n    \"Question answering\",\n    \"Information extraction\"\n  ]\n}", "error": ""}
+{"id": "f9b068945167c022", "prediction": ["Reasoning", "Multilingual / low-resource"], "raw": "{\n  \"topics\": [\n    \"Reasoning\",\n    \"Multilingual / low-resource\"\n  ]\n}", "error": ""}
+{"id": "2bda1774f26317e1", "prediction": ["Speech and spoken language", "Multilingual / low-resource", "Evaluation and benchmarks"], "raw": "{\n  \"topics\": [\n    \"Speech and spoken language\",\n    \"Multilingual / low-resource\",\n    \"Evaluation and benchmarks\"\n  ]\n}", "error": ""}
+{"id": "5caa0df9026a5f74", "prediction": ["Question answering", "Evaluation and benchmarks"], "raw": "{\"topics\": [\"Question answering\", \"Evaluation and benchmarks\"]}", "error": ""}
+{"id": "70990d0ed4ba9907", "prediction": ["Dialogue systems", "Language modeling"], "raw": "{\n  \"topics\": [\n    \"Dialogue systems\",\n    \"Language modeling\"\n  ]\n}", "error": ""}
+{"id": "7d2521b8792d477b", "prediction": ["Language modeling"], "raw": "{\n  \"topics\": [\n    \"Language modeling\"\n  ]\n}", "error": ""}
+{"id": "d51d191ebd1c527e", "prediction": null, "raw": "", "error": "Other cannot coexist with other topics"}
+{"id": "3af456ebfe672176", "prediction": ["Evaluation and benchmarks"], "raw": "{\n  \"topics\": [\n    \"Evaluation and benchmarks\"\n  ]\n}", "error": ""}
+{"id": "6fef1d3f88234bcb", "prediction": ["Machine translation", "Sentiment and opinion"], "raw": "{\n  \"topics\": [\n    \"Machine translation\",\n    \"Sentiment and opinion\"\n  ]\n}", "error": ""}
+{"id": "89f9650e01be3d2c", "prediction": ["Information extraction", "Question answering"], "raw": "{\n  \"topics\": [\n    \"Information extraction\",\n    \"Question answering\"\n  ]\n}", "error": ""}
+{"id": "d312fbca8721172e", "prediction": ["Dialogue systems"], "raw": "{\n  \"topics\": [\n    \"Dialogue systems\"\n  ]\n}", "error": ""}
+{"id": "469908ef23fd0216", "prediction": ["Question answering"], "raw": "{\n  \"topics\": [\n    \"Question answering\"\n  ]\n}", "error": ""}
+{"id": "a1e413f3fa55e784", "prediction": ["Summarization", "Evaluation and benchmarks"], "raw": "{\n  \"topics\": [\n    \"Summarization\",\n    \"Evaluation and benchmarks\"\n  ]\n}", "error": ""}
+{"id": "d517e1f3a8528a87", "prediction": ["Speech and spoken language", "Multilingual / low-resource"], "raw": "{\n  \"topics\": [\n    \"Speech and spoken language\",\n    \"Multilingual / low-resource\"\n  ]\n}", "error": ""}
+{"id": "dc6c40c600b42d1e", "prediction": ["Machine translation"], "raw": "{\n  \"topics\": [\n    \"Machine translation\"\n  ]\n}", "error": ""}
+{"id": "ae750a3dd4a543d6", "prediction": ["Information extraction", "Multilingual / low-resource"], "raw": "{\n  \"topics\": [\n    \"Information extraction\",\n    \"Multilingual / low-resource\"\n  ]\n}", "error": ""}
+{"id": "e4ed1a8f8a2387f7", "prediction": ["Machine translation", "Speech and spoken language"], "raw": "{\n  \"topics\": [\n    \"Machine translation\",\n    \"Speech and spoken language\"\n  ]\n}", "error": ""}
+{"id": "f923e228f4208140", "prediction": ["Question answering"], "raw": "{\n  \"topics\": [\n    \"Question answering\"\n  ]\n}", "error": ""}
+{"id": "0be654fb255b86d7", "prediction": ["Information extraction", "Evaluation and benchmarks"], "raw": "{\n  \"topics\": [\n    \"Information extraction\",\n    \"Evaluation and benchmarks\"\n  ]\n}", "error": ""}
+{"id": "27e70cdbeee62699", "prediction": ["Information extraction"], "raw": "{\n  \"topics\": [\n    \"Information extraction\"\n  ]\n}", "error": ""}
+{"id": "7f349ca9ca4ef7ca", "prediction": ["Machine translation", "Fairness, bias and ethics", "Evaluation and benchmarks"], "raw": "{\n  \"topics\": [\n    \"Machine translation\",\n    \"Fairness, bias and ethics\",\n    \"Evaluation and benchmarks\"\n  ]\n}", "error": ""}
+{"id": "8c0e84102e06e9cb", "prediction": ["Sentiment and opinion", "Evaluation and benchmarks"], "raw": "{\n  \"topics\": [\n    \"Sentiment and opinion\",\n    \"Evaluation and benchmarks\"\n  ]\n}", "error": ""}
+{"id": "bd911a7ee09319fe", "prediction": ["Information extraction", "Summarization", "Language modeling"], "raw": "{\n  \"topics\": [\n    \"Information extraction\",\n    \"Summarization\",\n    \"Language modeling\"\n  ]\n}", "error": ""}
+{"id": "54bd85479a16379d", "prediction": ["Multimodal NLP", "Evaluation and benchmarks"], "raw": "{\n  \"topics\": [\n    \"Multimodal NLP\",\n    \"Evaluation and benchmarks\"\n  ]\n}", "error": ""}
+{"id": "60277ea4b8c14c57", "prediction": ["Other"], "raw": "{\n  \"topics\": [\n    \"Other\"\n  ]\n}", "error": ""}
+{"id": "6afb18a4cacb327a", "prediction": ["Speech and spoken language", "Information extraction", "Evaluation and benchmarks"], "raw": "{\n  \"topics\": [\n    \"Speech and spoken language\",\n    \"Information extraction\",\n    \"Evaluation and benchmarks\"\n  ]\n}", "error": ""}
+{"id": "e7c684db3f7fa0cf", "prediction": ["Multilingual / low-resource", "Evaluation and benchmarks"], "raw": "{\"topics\": [\"Multilingual / low-resource\", \"Evaluation and benchmarks\"]}", "error": ""}
+{"id": "20ce80a4558300a1", "prediction": ["Information extraction", "Fairness, bias and ethics"], "raw": "{\n  \"topics\": [\n    \"Information extraction\",\n    \"Fairness, bias and ethics\"\n  ]\n}", "error": ""}
+{"id": "551561fe700286c3", "prediction": ["Language modeling", "Multilingual / low-resource", "Evaluation and benchmarks"], "raw": "{\n  \"topics\": [\n    \"Language modeling\",\n    \"Multilingual / low-resource\",\n    \"Evaluation and benchmarks\"\n  ]\n}", "error": ""}
+{"id": "77835b22d4626cab", "prediction": ["Dialogue systems"], "raw": "{\n  \"topics\": [\n    \"Dialogue systems\"\n  ]\n}", "error": ""}
+{"id": "7b852ef9ae73d78c", "prediction": ["Language modeling", "Multimodal NLP", "Evaluation and benchmarks"], "raw": "{\n  \"topics\": [\n    \"Language modeling\",\n    \"Multimodal NLP\",\n    \"Evaluation and benchmarks\"\n  ]\n}", "error": ""}
+{"id": "b060fed5659c551a", "prediction": ["Question answering", "Reasoning", "Language modeling", "Evaluation and benchmarks"], "raw": "{\n  \"topics\": [\n    \"Question answering\",\n    \"Reasoning\",\n    \"Language modeling\",\n    \"Evaluation and benchmarks\"\n  ]\n}", "error": ""}
+{"id": "b350360a824b46a9", "prediction": ["Fairness, bias and ethics", "Evaluation and benchmarks", "Language modeling"], "raw": "{\n  \"topics\": [\n    \"Fairness, bias and ethics\",\n    \"Evaluation and benchmarks\",\n    \"Language modeling\"\n  ]\n}", "error": ""}

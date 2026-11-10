@@ -1,0 +1,4 @@
+model,topic_micro_f1,topic_macro_f1,claim_accuracy,claim_macro_f1,topic_failures,claim_failures
+Qwen zero-shot,0.392638,0.270072,0.8359375,0.648114,12,0
+Qwen few-shot,0.465409,0.389799,0.8828125,0.611278,17,0
+Gemini zero-shot,0.623853,0.647091,0.625,0.420255,4,10

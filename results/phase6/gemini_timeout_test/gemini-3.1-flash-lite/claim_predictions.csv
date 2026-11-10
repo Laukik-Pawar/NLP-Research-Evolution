@@ -1,0 +1,6 @@
+﻿sentence_id,paper_id,year,sentence,claim_label,predicted_label,error,raw_response
+P6_0005_S1,P6_0005,2010,"Under the DARPA Global Autonomous Language Exploitation (GALE) program, Distillation provides succinct, direct responses to the formatted queries using the outputs of automated transcription and translation technologies.",Neutral,Neutral,,"{""label"": ""Neutral""}"
+P6_0005_S2,P6_0005,2010,The final metric in the overall GALE distillation evaluation combines the results of scoring of both query responses and document citations.,Neutral,Neutral,,"{""label"": ""Neutral""}"
+P6_0006_S1,P6_0006,2010,"For our experiments, we use Joshua as the decoder.",Neutral,Neutral,,"{""label"": ""Neutral""}"
+P6_0006_S2,P6_0006,2010,It is the first attempt towards a tighter integration of MT systems from different paradigms that both support hierarchical analysis.,Strong,Neutral,,"{""label"": ""Neutral""}"
+P6_0017_S1,P6_0017,2010,The goal of the first one is to find an appropriate FrameNet frame for each frame in VerbaLex.,Neutral,Neutral,,"{""label"": ""Neutral""}"

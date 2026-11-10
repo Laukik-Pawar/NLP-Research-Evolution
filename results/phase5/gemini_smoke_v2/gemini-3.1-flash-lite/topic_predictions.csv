@@ -1,0 +1,8 @@
+﻿paper_id,year,title,abstract,topic_labels,predicted_labels,error,raw_response
+164b9d9303e895ac,2016,Language technology tools and resources for the analysis of multimodal communication,"In this paper we describe how the complexity of human communication can be analysed with the help of language technology. We present the HuComTech corpus, a multimodal corpus containing 50 hours of videotaped interviews containing a rich annotation of about 2 million items annotated on 33 levels. The corpus serves as a general resource for a wide range of re-search addressing natural conversation between humans in their full complexity. It can benefit particularly digital humanities researchers working in the field of pragmatics, conversational analysis and discourse analysis. We will present a number of tools and automated methods that can help such enquiries. In particular, we will highlight the tool Theme, which is designed to uncover hidden temporal patterns (called T-patterns) in human interaction, and will show how it can applied to the study of multimodal communication.",Multimodal NLP; Dialogue systems,Multimodal NLP; Dialogue systems; Evaluation and benchmarks,,"{
+  ""topics"": [
+    ""Multimodal NLP"",
+    ""Dialogue systems"",
+    ""Evaluation and benchmarks""
+  ]
+}"

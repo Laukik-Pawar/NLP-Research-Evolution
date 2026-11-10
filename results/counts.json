@@ -1,0 +1,9 @@
+{
+  "raw": 93261,
+  "duplicates_removed": 197,
+  "missing_or_short_abstract_removed": 23890,
+  "non_english_removed": 1886,
+  "language_detection_failed_removed": 0,
+  "final": 67288,
+  "arithmetic_check": true
+}

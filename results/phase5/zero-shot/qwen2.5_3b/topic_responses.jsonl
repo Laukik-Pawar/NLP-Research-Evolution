@@ -1,0 +1,50 @@
+{"id": "164b9d9303e895ac", "prediction": ["Multimodal NLP"], "raw": "{\"topics\":[\"Multimodal NLP\"]}", "error": ""}
+{"id": "70a0d9b0758452d5", "prediction": ["Multimodal NLP"], "raw": "{\"topics\":[\"Multimodal NLP\"]}", "error": ""}
+{"id": "725388bd8d902aac", "prediction": null, "raw": "", "error": "Unknown topics: ['Data management and data centers']"}
+{"id": "aa638f27bed6c5ee", "prediction": ["Machine translation"], "raw": "{\"topics\":[\"Machine translation\"]}", "error": ""}
+{"id": "c550fcf0a3f80991", "prediction": null, "raw": "", "error": "Other must not coexist with substantive topics"}
+{"id": "164d1c34ab9d2a48", "prediction": ["Multilingual / low-resource"], "raw": "{\"topics\":[\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "8a0b5658903de55a", "prediction": ["Summarization"], "raw": "{\"topics\":[\"Summarization\"]}", "error": ""}
+{"id": "ba3f50644abe2d40", "prediction": ["Sentiment and opinion"], "raw": "{\"topics\":[\"Sentiment and opinion\"]}", "error": ""}
+{"id": "c08a0c30b374c9be", "prediction": ["Question answering"], "raw": "{\"topics\":[\"Question answering\"]}", "error": ""}
+{"id": "f9b068945167c022", "prediction": null, "raw": "", "error": "Other must not coexist with substantive topics"}
+{"id": "2bda1774f26317e1", "prediction": ["Multimodal NLP"], "raw": "{\"topics\":[\"Multimodal NLP\"]}", "error": ""}
+{"id": "5caa0df9026a5f74", "prediction": ["Machine translation"], "raw": "{\"topics\":[\"Machine translation\"]}", "error": ""}
+{"id": "70990d0ed4ba9907", "prediction": ["Speech and spoken language"], "raw": "{\"topics\":[\"Speech and spoken language\"]}", "error": ""}
+{"id": "7d2521b8792d477b", "prediction": ["Machine translation", "Summarization", "Question answering", "Reasoning", "Language modeling"], "raw": "{\"topics\":[\"Machine translation\",\"Summarization\",\"Question answering\",\"Reasoning\",\"Language modeling\"]}", "error": ""}
+{"id": "d51d191ebd1c527e", "prediction": null, "raw": "", "error": "Other must not coexist with substantive topics"}
+{"id": "3af456ebfe672176", "prediction": ["Multilingual / low-resource"], "raw": "{\"topics\":[\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "6fef1d3f88234bcb", "prediction": ["Sentiment and opinion"], "raw": "{\"topics\":[\"Sentiment and opinion\"]}", "error": ""}
+{"id": "71f349126ce33c46", "prediction": ["Multilingual / low-resource"], "raw": "{\"topics\":[\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "89f9650e01be3d2c", "prediction": ["Multilingual / low-resource"], "raw": "{\"topics\":[\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "d312fbca8721172e", "prediction": ["Dialogue systems"], "raw": "{\"topics\":[\"Dialogue systems\"]}", "error": ""}
+{"id": "29cdb685d89f63ac", "prediction": ["Machine translation"], "raw": "{\"topics\":[\"Machine translation\"]}", "error": ""}
+{"id": "469908ef23fd0216", "prediction": ["Question answering"], "raw": "{\"topics\":[\"Question answering\"]}", "error": ""}
+{"id": "a1e413f3fa55e784", "prediction": ["Summarization"], "raw": "{\"topics\":[\"Summarization\"]}", "error": ""}
+{"id": "d517e1f3a8528a87", "prediction": ["Multilingual / low-resource"], "raw": "{\"topics\":[\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "dc6c40c600b42d1e", "prediction": ["Machine translation"], "raw": "{\"topics\":[\"Machine translation\"]}", "error": ""}
+{"id": "7424aee0608e440a", "prediction": ["Multimodal NLP"], "raw": "{\"topics\":[\"Multimodal NLP\"]}", "error": ""}
+{"id": "ae750a3dd4a543d6", "prediction": ["Multilingual / low-resource"], "raw": "{\"topics\":[\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "c811a60a3b543563", "prediction": ["Summarization", "Machine translation", "Reasoning", "Multilingual / low-resource", "Evaluation and benchmarks"], "raw": "{\"topics\":[\"Summarization\",\"Machine translation\",\"Reasoning\",\"Multilingual / low-resource\",\"Evaluation and benchmarks\"]}", "error": ""}
+{"id": "e4ed1a8f8a2387f7", "prediction": ["Speech and spoken language"], "raw": "{\"topics\":[\"Speech and spoken language\"]}", "error": ""}
+{"id": "f923e228f4208140", "prediction": ["Summarization", "Question answering", "Multimodal NLP"], "raw": "{\"topics\":[\"Summarization\",\"Question answering\",\"Multimodal NLP\"]}", "error": ""}
+{"id": "0be654fb255b86d7", "prediction": null, "raw": "", "error": "Unknown topics: ['Named entity recognition']"}
+{"id": "27e70cdbeee62699", "prediction": null, "raw": "", "error": "Other must not coexist with substantive topics"}
+{"id": "7f349ca9ca4ef7ca", "prediction": ["Machine translation"], "raw": "{\"topics\":[\"Machine translation\"]}", "error": ""}
+{"id": "8c0e84102e06e9cb", "prediction": ["Multilingual / low-resource"], "raw": "{\"topics\":[\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "bd911a7ee09319fe", "prediction": null, "raw": "", "error": "Other must not coexist with substantive topics"}
+{"id": "54bd85479a16379d", "prediction": null, "raw": "", "error": "Other must not coexist with substantive topics"}
+{"id": "60277ea4b8c14c57", "prediction": ["Multilingual / low-resource"], "raw": "{\"topics\":[\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "6afb18a4cacb327a", "prediction": ["Speech and spoken language"], "raw": "{\"topics\":[\"Speech and spoken language\"]}", "error": ""}
+{"id": "e7c684db3f7fa0cf", "prediction": ["Multilingual / low-resource"], "raw": "{\"topics\":[\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "f7324b3b3840c33b", "prediction": null, "raw": "", "error": "Other must not coexist with substantive topics"}
+{"id": "20ce80a4558300a1", "prediction": ["Multilingual / low-resource"], "raw": "{\"topics\":[\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "551561fe700286c3", "prediction": ["Machine translation", "Multilingual / low-resource"], "raw": "{\"topics\":[\"Machine translation\",\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "77835b22d4626cab", "prediction": ["Summarization", "Question answering", "Reasoning", "Dialogue systems"], "raw": "{\"topics\":[\"Summarization\", \"Question answering\", \"Reasoning\", \"Dialogue systems\"]}", "error": ""}
+{"id": "7b852ef9ae73d78c", "prediction": ["Multimodal NLP"], "raw": "{\"topics\":[\"Multimodal NLP\"]}", "error": ""}
+{"id": "b060fed5659c551a", "prediction": ["Reasoning"], "raw": "{\"topics\":[\"Reasoning\"]}", "error": ""}
+{"id": "2979b17e3020dee7", "prediction": ["Multimodal NLP"], "raw": "{\"topics\":[\"Multimodal NLP\"]}", "error": ""}
+{"id": "701c3cfac49d9848", "prediction": ["Dialogue systems"], "raw": "{\"topics\":[\"Dialogue systems\"]}", "error": ""}
+{"id": "a0b55d3654ccb35a", "prediction": ["Multimodal NLP"], "raw": "{\"topics\":[\"Multimodal NLP\"]}", "error": ""}
+{"id": "b350360a824b46a9", "prediction": null, "raw": "", "error": "Other must not coexist with substantive topics"}
+{"id": "d485f0fd30d75c6b", "prediction": ["Multimodal NLP"], "raw": "{\"topics\":[\"Multimodal NLP\"]}", "error": ""}

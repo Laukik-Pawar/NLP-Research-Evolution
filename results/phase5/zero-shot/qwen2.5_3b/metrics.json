@@ -1,0 +1,114 @@
+{
+  "model": "qwen2.5:3b",
+  "mode": "zero-shot",
+  "temperature": 0,
+  "topic": {
+    "evaluated": 40,
+    "failed": 10,
+    "micro_f1": 0.5087719298245614,
+    "macro_f1": 0.36118766224029386,
+    "per_topic": {
+      "Machine translation": {
+        "support": 6,
+        "f1": 0.5714285714285714
+      },
+      "Summarization": {
+        "support": 3,
+        "f1": 0.4444444444444444
+      },
+      "Question answering": {
+        "support": 6,
+        "f1": 0.5454545454545454
+      },
+      "Reasoning": {
+        "support": 3,
+        "f1": 0.5714285714285714
+      },
+      "Dialogue systems": {
+        "support": 7,
+        "f1": 0.6
+      },
+      "Information extraction": {
+        "support": 5,
+        "f1": 0.0
+      },
+      "Sentiment and opinion": {
+        "support": 4,
+        "f1": 0.6666666666666666
+      },
+      "Syntax and parsing": {
+        "support": 0,
+        "f1": 0.0
+      },
+      "Language modeling": {
+        "support": 9,
+        "f1": 0.2
+      },
+      "Multilingual / low-resource": {
+        "support": 7,
+        "f1": 0.631578947368421
+      },
+      "Fairness, bias and ethics": {
+        "support": 1,
+        "f1": 0.0
+      },
+      "Evaluation and benchmarks": {
+        "support": 0,
+        "f1": 0.0
+      },
+      "Multimodal NLP": {
+        "support": 4,
+        "f1": 0.6153846153846154
+      },
+      "Speech and spoken language": {
+        "support": 4,
+        "f1": 0.5714285714285714
+      },
+      "Other": {
+        "support": 1,
+        "f1": 0.0
+      }
+    }
+  },
+  "claim": {
+    "evaluated": 100,
+    "failed": 0,
+    "accuracy": 0.83,
+    "macro_f1": 0.5859003040211094,
+    "per_class": {
+      "Hedged": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 5.0
+      },
+      "Neutral": {
+        "precision": 0.9166666666666666,
+        "recall": 0.8571428571428571,
+        "f1-score": 0.8859060402684564,
+        "support": 77.0
+      },
+      "Strong": {
+        "precision": 0.8095238095238095,
+        "recall": 0.9444444444444444,
+        "f1-score": 0.8717948717948718,
+        "support": 18.0
+      },
+      "accuracy": 0.83,
+      "macro avg": {
+        "precision": 0.5753968253968255,
+        "recall": 0.6005291005291005,
+        "f1-score": 0.5859003040211094,
+        "support": 100.0
+      },
+      "weighted avg": {
+        "precision": 0.851547619047619,
+        "recall": 0.83,
+        "f1-score": 0.8390707279297884,
+        "support": 100.0
+      }
+    }
+  },
+  "annotation_provenance": "Human-reviewed AI-generated labels; not independent human ground truth.",
+  "note": "Failed JSON responses excluded from F1; failure counts reported. Predictions cached for restart."
+}

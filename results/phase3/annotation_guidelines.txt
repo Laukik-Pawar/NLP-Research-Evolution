@@ -1,0 +1,3 @@
+TOPICS: Assign all applicable labels, separated by semicolons, using exact names in topic_taxonomy.csv. Use Other only when none of the 14 named categories fits.
+CLAIM STRENGTH: Hedged = cautious or uncertain language; Neutral = method or finding without an explicit certainty signal; Strong = asserts performance, capability or impact, including superiority over a baseline. A score alone is Neutral. Consider sentence and its paper abstract.
+Two annotators should label independently; do not share completed sheets before agreement calculation.

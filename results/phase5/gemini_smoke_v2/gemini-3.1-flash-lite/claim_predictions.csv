@@ -1,0 +1,2 @@
+﻿sentence_id,paper_id,year,title,sentence,claim_label,predicted_label,error,raw_response
+164b9d9303e895ac-s3,164b9d9303e895ac,2016,Language technology tools and resources for the analysis of multimodal communication,The corpus serves as a general resource for a wide range of re-search addressing natural conversation between humans in their full complexity.,Neutral,Neutral,,"{""label"": ""Neutral""}"

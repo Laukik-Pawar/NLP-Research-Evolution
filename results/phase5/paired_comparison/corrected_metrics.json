@@ -1,0 +1,19 @@
+{
+  "method": "Invalid outputs count as empty label sets; all papers included.",
+  "zero_shot": {
+    "papers": 40,
+    "valid": 29,
+    "failed": 11,
+    "invalid_output_rate": 0.275,
+    "topic_micro_f1": 0.4631578947368421,
+    "topic_macro_f1": 0.3382777353365588
+  },
+  "few_shot": {
+    "papers": 40,
+    "valid": 33,
+    "failed": 7,
+    "invalid_output_rate": 0.175,
+    "topic_micro_f1": 0.5769230769230769,
+    "topic_macro_f1": 0.5224106394694629
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "checks": [
+    {
+      "check": "Cleaned corpus",
+      "status": "PASS",
+      "path": "results\\cleaned_corpus.csv"
+    },
+    {
+      "check": "Reviewed topic annotations",
+      "status": "PASS",
+      "path": "results\\phase6\\independent_annotation\\papers_for_review_annotated.csv"
+    },
+    {
+      "check": "Reviewed claim annotations",
+      "status": "PASS",
+      "path": "results\\phase6\\independent_annotation\\sentences_for_review_annotated.csv"
+    },
+    {
+      "check": "Annotation manifest",
+      "status": "PASS",
+      "path": "results\\phase6\\independent_annotation\\annotation_manifest.json"
+    },
+    {
+      "check": "Temporal claim trends",
+      "status": "PASS",
+      "path": "results\\phase7\\claim_cue_trends.csv"
+    },
+    {
+      "check": "Period comparison",
+      "status": "PASS",
+      "path": "results\\phase7\\period_comparison.csv"
+    },
+    {
+      "check": "Venue sensitivity",
+      "status": "PASS",
+      "path": "results\\phase8\\venue_sensitivity.csv"
+    }
+  ],
+  "warnings": [
+    "No prediction CSV files in results\\phase6\\qwen_zero",
+    "No prediction CSV files in results\\phase6\\qwen_few",
+    "No prediction CSV files in results\\phase6\\gemini_zero",
+    "Phase 6 metrics are reference values; automatic recomputation from predictions has not yet been performed."
+  ],
+  "limitations": [
+    "2010\u20132015 venue coverage is uneven.",
+    "Topic trends are keyword-based proxies.",
+    "Claim trends measure lexical cues, not sentence-level claim-strength labels.",
+    "Reviewed evaluation set is small.",
+    "Claim reference labels are imbalanced.",
+    "Venue-family sensitivity does not fully control for venue composition.",
+    "Period comparison p-values are exploratory and unadjusted for multiple testing."
+  ]
+}

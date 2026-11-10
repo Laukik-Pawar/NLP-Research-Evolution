@@ -1,0 +1,30 @@
+{
+  "seed": 42,
+  "year_range": [
+    2010,
+    2025
+  ],
+  "papers": 300,
+  "sentences": 600,
+  "pilot_papers_excluded": 50,
+  "papers_per_year": {
+    "2010": 19,
+    "2011": 19,
+    "2012": 19,
+    "2013": 19,
+    "2014": 19,
+    "2015": 19,
+    "2016": 19,
+    "2017": 19,
+    "2018": 19,
+    "2019": 19,
+    "2020": 19,
+    "2021": 19,
+    "2022": 18,
+    "2023": 18,
+    "2024": 18,
+    "2025": 18
+  },
+  "annotation_status": "Unlabeled",
+  "sampling_method": "Balanced stratified random sampling by year, excluding pilot titles, requiring at least two eligible abstract sentences."
+}

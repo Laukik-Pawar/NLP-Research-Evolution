@@ -1,0 +1,19 @@
+{
+  "papers": 64,
+  "sentences": 128,
+  "claim_distribution": {
+    "Neutral": 113,
+    "Strong": 13,
+    "Hedged": 2
+  },
+  "files": {
+    "papers": {
+      "path": "results\\phase6\\independent_annotation\\papers_for_review_annotated.csv",
+      "sha256": "5bda5f1bf8c69115154b2085ba4347b1f4fce815b4265f8c203910475fec7376"
+    },
+    "sentences": {
+      "path": "results\\phase6\\independent_annotation\\sentences_for_review_annotated.csv",
+      "sha256": "846a5e3df049fede5921b21ffe16664a4188827de9ae11f2a7b992addc0c394a"
+    }
+  }
+}

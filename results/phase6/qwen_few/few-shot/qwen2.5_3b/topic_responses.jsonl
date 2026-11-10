@@ -1,0 +1,64 @@
+{"id": "P6_0005", "prediction": ["Evaluation and benchmarks"], "raw": "{\"topics\": [\"Evaluation and benchmarks\"]}", "error": ""}
+{"id": "P6_0006", "prediction": ["Machine translation"], "raw": "{\"topics\": [\"Machine translation\"]}", "error": ""}
+{"id": "P6_0017", "prediction": null, "raw": "", "error": "Unknown topics: ['Multilingual / low-resource', 'Ontology', 'Information extraction']"}
+{"id": "P6_0019", "prediction": null, "raw": "", "error": "Other must not coexist with substantive topics"}
+{"id": "P6_0026", "prediction": ["Dialogue systems"], "raw": "{\"topics\": [\"Dialogue systems\"]}", "error": ""}
+{"id": "P6_0028", "prediction": ["Syntax and parsing"], "raw": "{\"topics\": [\"Syntax and parsing\"]}", "error": ""}
+{"id": "P6_0031", "prediction": ["Machine translation"], "raw": "{\"topics\": [\"Machine translation\"]}", "error": ""}
+{"id": "P6_0033", "prediction": ["Reasoning"], "raw": "{\"topics\": [\"Reasoning\"]}", "error": ""}
+{"id": "P6_0043", "prediction": ["Multilingual / low-resource"], "raw": "{\"topics\": [\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "P6_0048", "prediction": null, "raw": "", "error": "Unknown topics: ['Information extraction', 'Multimodal NLP', 'Search engines and information retrieval']"}
+{"id": "P6_0053", "prediction": null, "raw": "", "error": "Unknown topics: ['Machine learning', 'Feature engineering']"}
+{"id": "P6_0054", "prediction": ["Speech and spoken language"], "raw": "{\"topics\": [\"Speech and spoken language\"]}", "error": ""}
+{"id": "P6_0058", "prediction": null, "raw": "", "error": "Other must not coexist with substantive topics"}
+{"id": "P6_0067", "prediction": ["Machine translation"], "raw": "{\"topics\": [\"Machine translation\"]}", "error": ""}
+{"id": "P6_0068", "prediction": ["Speech and spoken language"], "raw": "{\"topics\": [\"Speech and spoken language\"]}", "error": ""}
+{"id": "P6_0075", "prediction": ["Machine translation"], "raw": "{\"topics\": [\"Machine translation\"]}", "error": ""}
+{"id": "P6_0079", "prediction": null, "raw": "", "error": "Other must not coexist with substantive topics"}
+{"id": "P6_0081", "prediction": ["Syntax and parsing"], "raw": "{\"topics\": [\"Syntax and parsing\"]}", "error": ""}
+{"id": "P6_0088", "prediction": null, "raw": "", "error": "Other must not coexist with substantive topics"}
+{"id": "P6_0090", "prediction": ["Reasoning"], "raw": "{\"topics\": [\"Reasoning\"]}", "error": ""}
+{"id": "P6_0096", "prediction": null, "raw": "", "error": "Other must not coexist with substantive topics"}
+{"id": "P6_0098", "prediction": ["Multimodal NLP"], "raw": "{\"topics\": [\"Multimodal NLP\"]}", "error": ""}
+{"id": "P6_0101", "prediction": ["Syntax and parsing"], "raw": "{\"topics\": [\"Syntax and parsing\"]}", "error": ""}
+{"id": "P6_0113", "prediction": ["Information extraction"], "raw": "{\"topics\": [\"Information extraction\"]}", "error": ""}
+{"id": "P6_0117", "prediction": ["Multilingual / low-resource"], "raw": "{\"topics\": [\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "P6_0119", "prediction": ["Multimodal NLP"], "raw": "{\"topics\": [\"Multimodal NLP\"]}", "error": ""}
+{"id": "P6_0122", "prediction": ["Information extraction"], "raw": "{\"topics\": [\"Information extraction\"]}", "error": ""}
+{"id": "P6_0125", "prediction": ["Summarization", "Reasoning", "Question answering"], "raw": "{\"topics\": [\"Summarization\", \"Reasoning\", \"Question answering\"]}", "error": ""}
+{"id": "P6_0134", "prediction": ["Multilingual / low-resource"], "raw": "{\"topics\": [\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "P6_0136", "prediction": ["Multilingual / low-resource"], "raw": "{\"topics\": [\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "P6_0145", "prediction": ["Multilingual / low-resource"], "raw": "{\"topics\": [\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "P6_0150", "prediction": ["Dialogue systems"], "raw": "{\"topics\": [\"Dialogue systems\"]}", "error": ""}
+{"id": "P6_0156", "prediction": ["Syntax and parsing"], "raw": "{\"topics\": [\"Syntax and parsing\"]}", "error": ""}
+{"id": "P6_0160", "prediction": ["Machine translation"], "raw": "{\"topics\": [\"Machine translation\"]}", "error": ""}
+{"id": "P6_0162", "prediction": ["Machine translation"], "raw": "{\"topics\": [\"Machine translation\"]}", "error": ""}
+{"id": "P6_0164", "prediction": ["Machine translation"], "raw": "{\"topics\": [\"Machine translation\"]}", "error": ""}
+{"id": "P6_0174", "prediction": ["Multilingual / low-resource"], "raw": "{\"topics\": [\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "P6_0176", "prediction": null, "raw": "", "error": "Other must not coexist with substantive topics"}
+{"id": "P6_0177", "prediction": ["Machine translation"], "raw": "{\"topics\": [\"Machine translation\"]}", "error": ""}
+{"id": "P6_0186", "prediction": ["Summarization", "Dialogue systems"], "raw": "{\"topics\": [\"Summarization\", \"Dialogue systems\"]}", "error": ""}
+{"id": "P6_0191", "prediction": ["Multilingual / low-resource"], "raw": "{\"topics\": [\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "P6_0195", "prediction": null, "raw": "", "error": "Other must not coexist with substantive topics"}
+{"id": "P6_0196", "prediction": ["Machine translation"], "raw": "{\"topics\": [\"Machine translation\"]}", "error": ""}
+{"id": "P6_0199", "prediction": ["Multilingual / low-resource"], "raw": "{\"topics\": [\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "P6_0211", "prediction": ["Machine translation", "Multimodal NLP"], "raw": "{\"topics\": [\"Machine translation\", \"Multimodal NLP\"]}", "error": ""}
+{"id": "P6_0212", "prediction": ["Machine translation"], "raw": "{\"topics\": [\"Machine translation\"]}", "error": ""}
+{"id": "P6_0214", "prediction": ["Fairness, bias and ethics"], "raw": "{\"topics\": [\"Fairness, bias and ethics\"]}", "error": ""}
+{"id": "P6_0222", "prediction": null, "raw": "", "error": "Unknown topics: ['Machine translation', 'Robustness and security']"}
+{"id": "P6_0235", "prediction": ["Summarization", "Multimodal NLP"], "raw": "{\"topics\": [\"Summarization\", \"Multimodal NLP\"]}", "error": ""}
+{"id": "P6_0236", "prediction": null, "raw": "", "error": "Other must not coexist with substantive topics"}
+{"id": "P6_0239", "prediction": ["Multimodal NLP"], "raw": "{\"topics\": [\"Multimodal NLP\"]}", "error": ""}
+{"id": "P6_0242", "prediction": ["Multilingual / low-resource", "Evaluation and benchmarks", "Language modeling"], "raw": "{\"topics\": [\"Multilingual / low-resource\", \"Evaluation and benchmarks\", \"Language modeling\"]}", "error": ""}
+{"id": "P6_0251", "prediction": ["Dialogue systems"], "raw": "{\"topics\": [\"Dialogue systems\"]}", "error": ""}
+{"id": "P6_0258", "prediction": null, "raw": "", "error": "Other must not coexist with substantive topics"}
+{"id": "P6_0259", "prediction": ["Machine translation", "Summarization", "Information extraction", "Multimodal NLP"], "raw": "{\"topics\": [\"Machine translation\", \"Summarization\", \"Information extraction\", \"Multimodal NLP\"]}", "error": ""}
+{"id": "P6_0263", "prediction": null, "raw": "", "error": "Unknown topics: ['Machine translation', 'Unsupervised learning']"}
+{"id": "P6_0265", "prediction": ["Reasoning", "Dialogue systems"], "raw": "{\"topics\": [\"Reasoning\", \"Dialogue systems\"]}", "error": ""}
+{"id": "P6_0268", "prediction": ["Multilingual / low-resource", "Fairness, bias and ethics"], "raw": "{\"topics\": [\"Multilingual / low-resource\", \"Fairness, bias and ethics\"]}", "error": ""}
+{"id": "P6_0276", "prediction": null, "raw": "", "error": "Other must not coexist with substantive topics"}
+{"id": "P6_0282", "prediction": null, "raw": "", "error": "Other must not coexist with substantive topics"}
+{"id": "P6_0285", "prediction": ["Machine translation", "Dialogue systems"], "raw": "{\"topics\": [\"Machine translation\", \"Dialogue systems\"]}", "error": ""}
+{"id": "P6_0286", "prediction": null, "raw": "", "error": "Unknown topics: ['Error detection and correction']"}
+{"id": "P6_0294", "prediction": ["Syntax and parsing", "Information extraction", "Multilingual / low-resource"], "raw": "{\"topics\": [\"Syntax and parsing\", \"Information extraction\", \"Multilingual / low-resource\"]}", "error": ""}
+{"id": "P6_0300", "prediction": ["Fairness, bias and ethics", "Evaluation and benchmarks", "Machine translation"], "raw": "{\"topics\": [\"Fairness, bias and ethics\", \"Evaluation and benchmarks\", \"Machine translation\"]}", "error": ""}

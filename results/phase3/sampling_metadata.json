@@ -1,0 +1,19 @@
+{
+  "seed": 42,
+  "papers": 50,
+  "sentences": 100,
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "eligibility": "At least two spaCy-sentencizer sentences of 15 or more characters",
+  "selection": "5 papers per year, 2 sentences per paper; deterministic RNG"
+}

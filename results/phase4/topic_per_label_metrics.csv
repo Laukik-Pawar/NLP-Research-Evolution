@@ -1,0 +1,16 @@
+topic,support,predicted_positive,precision,recall,f1
+Machine translation,7,1,1.0,0.14285714285714285,0.25
+Summarization,3,0,0.0,0.0,0.0
+Question answering,6,0,0.0,0.0,0.0
+Reasoning,5,0,0.0,0.0,0.0
+Dialogue systems,8,0,0.0,0.0,0.0
+Information extraction,8,0,0.0,0.0,0.0
+Sentiment and opinion,5,0,0.0,0.0,0.0
+Syntax and parsing,0,0,0.0,0.0,0.0
+Language modeling,9,0,0.0,0.0,0.0
+Multilingual / low-resource,9,2,1.0,0.2222222222222222,0.36363636363636365
+"Fairness, bias and ethics",2,0,0.0,0.0,0.0
+Evaluation and benchmarks,2,0,0.0,0.0,0.0
+Multimodal NLP,5,0,0.0,0.0,0.0
+Speech and spoken language,4,0,0.0,0.0,0.0
+Other,3,0,0.0,0.0,0.0

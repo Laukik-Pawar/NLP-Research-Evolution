@@ -1,0 +1,62 @@
+{
+  "topic_baseline": {
+    "papers": 50,
+    "folds": 5,
+    "micro_f1": 0.0759493670886076,
+    "macro_f1": 0.04090909090909091,
+    "rare_labels_support_below_5": [
+      "Summarization",
+      "Syntax and parsing",
+      "Fairness, bias and ethics",
+      "Evaluation and benchmarks",
+      "Speech and spoken language",
+      "Other"
+    ],
+    "zero_support_labels": [
+      "Syntax and parsing"
+    ],
+    "note": "TF-IDF fitted inside each training fold. Constant predictions used for labels absent from a training fold. Macro-F1 includes all 15 prespecified labels."
+  },
+  "claim_baseline": {
+    "sentences": 100,
+    "accuracy": 0.83,
+    "macro_f1": 0.6371928457818028,
+    "weighted_f1": 0.8147726166131076,
+    "reference_distribution": {
+      "Hedged": 5,
+      "Neutral": 77,
+      "Strong": 18
+    },
+    "predicted_distribution": {
+      "Hedged": 4,
+      "Neutral": 86,
+      "Strong": 10
+    },
+    "lexicon": {
+      "hedges": [
+        "\\bmay\\b",
+        "\\bmight\\b",
+        "\\bcould\\b",
+        "\\bpossibly\\b",
+        "\\bperhaps\\b",
+        "\\bsuggest(?:s|ed|ing)?\\b",
+        "\\bappear(?:s|ed)?\\s+to\\b",
+        "\\bpotentially\\b",
+        "\\bseem(?:s|ed)?\\b",
+        "\\blikely\\b"
+      ],
+      "boosters": [
+        "\\bstate[ -]of[ -]the[ -]art\\b",
+        "\\bsota\\b",
+        "\\boutperform(?:s|ed|ing)?\\b",
+        "\\bsignificantly\\b",
+        "\\bhuman[ -]level\\b",
+        "\\bsubstantially\\b",
+        "\\bsurpass(?:es|ed|ing)?\\b",
+        "\\bsuperior\\b"
+      ]
+    },
+    "note": "Counts distinct regex patterns per sentence, not word occurrences. Ties map to Neutral."
+  },
+  "annotation_provenance": "User-reviewed AI-generated labels; not independently human-annotated ground truth."
+}

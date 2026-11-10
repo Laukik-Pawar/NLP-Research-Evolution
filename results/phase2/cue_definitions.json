@@ -1,0 +1,10 @@
+{
+  "large language model / LLM": "\\b(?:large[\\s-]+language[\\s-]+models?|LLMs?)\\b",
+  "BERT": "\\bBERT\\b",
+  "machine translation / NMT": "\\b(?:neural[\\s-]+machine[\\s-]+translation|machine[\\s-]+translation|NMT)\\b",
+  "significantly": "\\bsignificantly\\b",
+  "state-of-the-art / SOTA": "\\b(?:state[\\s-]+of[\\s-]+the[\\s-]+art|SOTA)\\b",
+  "outperform": "\\boutperform(?:s|ed|ing)?\\b",
+  "may / might": "\\b(?:may|might)\\b",
+  "human-level / human parity": "\\b(?:human[\\s-]+level|human[\\s-]+parity)\\b"
+}

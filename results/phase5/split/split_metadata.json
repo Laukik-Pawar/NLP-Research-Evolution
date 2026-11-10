@@ -1,0 +1,18 @@
+{
+  "seed": 42,
+  "dev_papers": 10,
+  "test_papers": 40,
+  "dev_sentences": 20,
+  "test_sentences": 80,
+  "dev_claim_distribution": {
+    "Neutral": 12,
+    "Strong": 6,
+    "Hedged": 2
+  },
+  "test_claim_distribution": {
+    "Neutral": 65,
+    "Strong": 12,
+    "Hedged": 3
+  },
+  "warning": "Exploratory pilot; earlier full-pilot test outcomes have already been examined."
+}

@@ -1,0 +1,64 @@
+{"id": "P6_0005", "prediction": ["Multimodal NLP"], "raw": "{\"topics\":[\"Multimodal NLP\"]}", "error": ""}
+{"id": "P6_0006", "prediction": ["Machine translation"], "raw": "{\"topics\":[\"Machine translation\"]}", "error": ""}
+{"id": "P6_0017", "prediction": ["Multilingual / low-resource"], "raw": "{\"topics\":[\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "P6_0019", "prediction": ["Multimodal NLP", "Machine translation", "Evaluation and benchmarks"], "raw": "{\"topics\":[\"Multimodal NLP\", \"Machine translation\", \"Evaluation and benchmarks\"]}", "error": ""}
+{"id": "P6_0026", "prediction": ["Dialogue systems"], "raw": "{\"topics\":[\"Dialogue systems\"]}", "error": ""}
+{"id": "P6_0028", "prediction": ["Syntax and parsing"], "raw": "{\"topics\":[\"Syntax and parsing\"]}", "error": ""}
+{"id": "P6_0031", "prediction": ["Machine translation"], "raw": "{\"topics\":[\"Machine translation\"]}", "error": ""}
+{"id": "P6_0033", "prediction": ["Reasoning"], "raw": "{\"topics\":[\"Reasoning\"]}", "error": ""}
+{"id": "P6_0043", "prediction": ["Multilingual / low-resource"], "raw": "{\"topics\":[\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "P6_0048", "prediction": ["Multilingual / low-resource"], "raw": "{\"topics\":[\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "P6_0053", "prediction": null, "raw": "", "error": "Other must not coexist with substantive topics"}
+{"id": "P6_0054", "prediction": ["Machine translation"], "raw": "{\"topics\":[\"Machine translation\"]}", "error": ""}
+{"id": "P6_0058", "prediction": null, "raw": "", "error": "Other must not coexist with substantive topics"}
+{"id": "P6_0067", "prediction": ["Machine translation"], "raw": "{\"topics\":[\"Machine translation\"]}", "error": ""}
+{"id": "P6_0068", "prediction": ["Speech and spoken language"], "raw": "{\"topics\":[\"Speech and spoken language\"]}", "error": ""}
+{"id": "P6_0075", "prediction": ["Machine translation"], "raw": "{\"topics\":[\"Machine translation\"]}", "error": ""}
+{"id": "P6_0079", "prediction": null, "raw": "", "error": "Other must not coexist with substantive topics"}
+{"id": "P6_0081", "prediction": null, "raw": "", "error": "Unknown topics: ['Dependency parsing']"}
+{"id": "P6_0088", "prediction": ["Multilingual / low-resource"], "raw": "{\"topics\":[\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "P6_0090", "prediction": ["Reasoning"], "raw": "{\"topics\":[\"Reasoning\"]}", "error": ""}
+{"id": "P6_0096", "prediction": ["Multimodal NLP"], "raw": "{\"topics\":[\"Multimodal NLP\"]}", "error": ""}
+{"id": "P6_0098", "prediction": ["Multimodal NLP"], "raw": "{\"topics\":[\"Multimodal NLP\"]}", "error": ""}
+{"id": "P6_0101", "prediction": ["Syntax and parsing"], "raw": "{\"topics\":[\"Syntax and parsing\"]}", "error": ""}
+{"id": "P6_0113", "prediction": ["Multilingual / low-resource"], "raw": "{\"topics\":[\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "P6_0117", "prediction": ["Machine translation"], "raw": "{\"topics\":[\"Machine translation\"]}", "error": ""}
+{"id": "P6_0119", "prediction": ["Multimodal NLP"], "raw": "{\"topics\":[\"Multimodal NLP\"]}", "error": ""}
+{"id": "P6_0122", "prediction": ["Information extraction"], "raw": "{\"topics\":[\"Information extraction\"]}", "error": ""}
+{"id": "P6_0125", "prediction": null, "raw": "", "error": "Other must not coexist with substantive topics"}
+{"id": "P6_0134", "prediction": ["Multilingual / low-resource"], "raw": "{\"topics\":[\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "P6_0136", "prediction": ["Multilingual / low-resource"], "raw": "{\"topics\":[\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "P6_0145", "prediction": ["Multilingual / low-resource"], "raw": "{\"topics\":[\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "P6_0150", "prediction": null, "raw": "", "error": "Unknown topics: ['Game Playing']"}
+{"id": "P6_0156", "prediction": ["Syntax and parsing"], "raw": "{\"topics\":[\"Syntax and parsing\"]}", "error": ""}
+{"id": "P6_0160", "prediction": ["Machine translation"], "raw": "{\"topics\":[\"Machine translation\"]}", "error": ""}
+{"id": "P6_0162", "prediction": ["Machine translation"], "raw": "{\"topics\":[\"Machine translation\"]}", "error": ""}
+{"id": "P6_0164", "prediction": ["Machine translation"], "raw": "{\"topics\":[\"Machine translation\"]}", "error": ""}
+{"id": "P6_0174", "prediction": ["Multilingual / low-resource"], "raw": "{\"topics\":[\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "P6_0176", "prediction": null, "raw": "", "error": "Other must not coexist with substantive topics"}
+{"id": "P6_0177", "prediction": ["Machine translation"], "raw": "{\"topics\":[\"Machine translation\"]}", "error": ""}
+{"id": "P6_0186", "prediction": ["Multilingual / low-resource"], "raw": "{\"topics\":[\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "P6_0191", "prediction": ["Multilingual / low-resource"], "raw": "{\"topics\":[\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "P6_0195", "prediction": ["Multilingual / low-resource"], "raw": "{\"topics\":[\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "P6_0196", "prediction": ["Machine translation", "Summarization", "Question answering", "Evaluation and benchmarks"], "raw": "{\"topics\":[\"Machine translation\", \"Summarization\", \"Question answering\", \"Evaluation and benchmarks\"]}", "error": ""}
+{"id": "P6_0199", "prediction": ["Multilingual / low-resource"], "raw": "{\"topics\":[\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "P6_0211", "prediction": ["Machine translation", "Multimodal NLP"], "raw": "{\"topics\":[\"Machine translation\",\"Multimodal NLP\"]}", "error": ""}
+{"id": "P6_0212", "prediction": ["Machine translation"], "raw": "{\"topics\":[\"Machine translation\"]}", "error": ""}
+{"id": "P6_0214", "prediction": ["Multilingual / low-resource"], "raw": "{\"topics\":[\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "P6_0222", "prediction": null, "raw": "", "error": "Other must not coexist with substantive topics"}
+{"id": "P6_0235", "prediction": ["Multimodal NLP"], "raw": "{\"topics\":[\"Multimodal NLP\"]}", "error": ""}
+{"id": "P6_0236", "prediction": ["Multilingual / low-resource"], "raw": "{\"topics\":[\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "P6_0239", "prediction": ["Multimodal NLP"], "raw": "{\"topics\":[\"Multimodal NLP\"]}", "error": ""}
+{"id": "P6_0242", "prediction": ["Multimodal NLP"], "raw": "{\"topics\":[\"Multimodal NLP\"]}", "error": ""}
+{"id": "P6_0251", "prediction": ["Dialogue systems"], "raw": "{\"topics\":[\"Dialogue systems\"]}", "error": ""}
+{"id": "P6_0258", "prediction": ["Reasoning"], "raw": "{\"topics\":[\"Reasoning\"]}", "error": ""}
+{"id": "P6_0259", "prediction": ["Machine translation", "Summarization", "Question answering", "Reasoning", "Dialogue systems", "Information extraction", "Multimodal NLP"], "raw": "{\"topics\":[\"Machine translation\",\"Summarization\",\"Question answering\",\"Reasoning\",\"Dialogue systems\",\"Information extraction\",\"Multimodal NLP\"]}", "error": ""}
+{"id": "P6_0263", "prediction": null, "raw": "", "error": "Other must not coexist with substantive topics"}
+{"id": "P6_0265", "prediction": ["Reasoning"], "raw": "{\"topics\":[\"Reasoning\"]}", "error": ""}
+{"id": "P6_0268", "prediction": null, "raw": "", "error": "Other must not coexist with substantive topics"}
+{"id": "P6_0276", "prediction": ["Machine translation", "Multilingual / low-resource"], "raw": "{\"topics\":[\"Machine translation\",\"Multilingual / low-resource\"]}", "error": ""}
+{"id": "P6_0282", "prediction": ["Machine translation"], "raw": "{\"topics\":[\"Machine translation\"]}", "error": ""}
+{"id": "P6_0285", "prediction": null, "raw": "", "error": "Other must not coexist with substantive topics"}
+{"id": "P6_0286", "prediction": null, "raw": "", "error": "Other must not coexist with substantive topics"}
+{"id": "P6_0294", "prediction": ["Summarization", "Reasoning", "Information extraction", "Multimodal NLP"], "raw": "{\"topics\":[\"Summarization\", \"Reasoning\", \"Information extraction\", \"Multimodal NLP\"]}", "error": ""}
+{"id": "P6_0300", "prediction": ["Multimodal NLP"], "raw": "{\"topics\":[\"Multimodal NLP\"]}", "error": ""}

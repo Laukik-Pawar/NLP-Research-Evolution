@@ -1,0 +1,8 @@
+check,status,path
+Cleaned corpus,PASS,results\cleaned_corpus.csv
+Reviewed topic annotations,PASS,results\phase6\independent_annotation\papers_for_review_annotated.csv
+Reviewed claim annotations,PASS,results\phase6\independent_annotation\sentences_for_review_annotated.csv
+Annotation manifest,PASS,results\phase6\independent_annotation\annotation_manifest.json
+Temporal claim trends,PASS,results\phase7\claim_cue_trends.csv
+Period comparison,PASS,results\phase7\period_comparison.csv
+Venue sensitivity,PASS,results\phase8\venue_sensitivity.csv
