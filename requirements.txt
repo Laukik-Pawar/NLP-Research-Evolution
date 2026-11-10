@@ -1,0 +1,29 @@
+
+# Data processing
+numpy
+pandas
+
+# Machine learning and evaluation
+scikit-learn
+
+# NLP and local Qwen inference
+torch
+transformers
+accelerate
+sentencepiece
+
+# Gemini API
+google-genai
+
+# Visualizations
+matplotlib
+seaborn
+
+# Statistical analysis
+scipy
+
+# Environment variables
+python-dotenv
+
+# Progress tracking
+tqdm
